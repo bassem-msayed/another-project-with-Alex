@@ -6,6 +6,6 @@ df.head()
 
 df.describe()
 
-#let's see what the avearge value is
+#let's see what the maximum value is
 
-df["value"].mean()
+df["value"].max()
