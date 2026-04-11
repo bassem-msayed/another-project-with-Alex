@@ -6,6 +6,6 @@ df.head()
 
 df.describe()
 
-#let's see what the maximum value is
+#let's see what the minimum value is
 
-df["value"].max()
+df["value"].min()
